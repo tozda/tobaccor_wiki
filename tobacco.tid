@@ -1,0 +1,37 @@
+caption: 3.5/004 - W.O. Larsen - Craftmans Edition (A,BC,B,V)
+created: 20221031194223099
+creator: Romuald Tomasz Zdanowicz
+data-dojrzewania-start: -
+data-pierwszego-zakupu: 2022-10-31
+data_zakupu: 2022-10-31
+modified: 20221031194223099
+modifier: Romuald Tomasz Zdanowicz
+tabacco_cover:
+tags: tytoń [[na stanie]]
+title: W.O. Larsen - Craftmans Edition
+tr_blend_type: Aromatic
+tr_blended_by: Orlik Tobacco Company A S
+tr_brand: W.O. Larsen
+tr_contents: Black Cavendish, Burley, Virginia
+tr_country: DK
+tr_cut: Ready Rubbed
+tr_flavoring: Caramel, Coffee, Vanilla
+tr_link: https://www.tobaccoreviews.com/blend/10436/wo-larsen-craftmans-edition
+tr_packaging: 100 grams tin
+tr_tabacco_rate: 3.5
+tr_votes: 004
+
+|Brand	|{{!!tr_brand}} |{{!!tabacco_cover}}|
+|TR Rating	|''{{!!tr_tabacco_rate}}/{{!!tr_votes}}'' |~|
+|Blended By	|{{!!tr_blended_by}} |~|
+|Blend Type	|{{!!tr_blend_type}} |~|
+|Contents	|{{!!tr_contents}} |~|
+|Flavoring	|{{!!tr_flavoring}} |~|
+|Cut	|{{!!tr_cut}} |~|
+|Packaging	|{{!!tr_packaging}} |~|
+|Country	|{{!!tr_country}} |~|
+|TR Review |{{!!tr_link}} |<|
+
+* Data pierwszego zakupu: {{!!data-pierwszego-zakupu}}
+* Data zakupu: {{!!data_zakupu}}
+* Data rozpoczęcia dojrzewania: {{!!data-dojrzewania-start}}

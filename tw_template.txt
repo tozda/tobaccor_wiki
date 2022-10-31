@@ -1,0 +1,37 @@
+caption: <RATE>/<VOTES> - <TOBACCOTITLE> (<TOBACCOABBREVIATIONS>)
+created: <TIMESTAMP>
+creator: Romuald Tomasz Zdanowicz
+data-dojrzewania-start: -
+data-pierwszego-zakupu: <FIRSTPURCHASEDATE>
+data_zakupu: <FIRSTPURCHASEDATE>
+modified: <TIMESTAMP>
+modifier: Romuald Tomasz Zdanowicz
+tabacco_cover:
+tags: tytoń [[na stanie]]
+title: <TOBACCOTITLE>
+tr_blend_type: <BLENDTYPE>
+tr_blended_by: <BLENDEDBY>
+tr_brand: <BRAND>
+tr_contents: <CONTENTS>
+tr_country: <COUNTRY>
+tr_cut: <CUT>
+tr_flavoring: <FLAVORING>
+tr_link: <TRLINK>
+tr_packaging: <PACKAGING>
+tr_tabacco_rate: <RATE>
+tr_votes: <VOTES>
+
+|Brand	|{{!!tr_brand}} |{{!!tabacco_cover}}|
+|TR Rating	|''{{!!tr_tabacco_rate}}/{{!!tr_votes}}'' |~|
+|Blended By	|{{!!tr_blended_by}} |~|
+|Blend Type	|{{!!tr_blend_type}} |~|
+|Contents	|{{!!tr_contents}} |~|
+|Flavoring	|{{!!tr_flavoring}} |~|
+|Cut	|{{!!tr_cut}} |~|
+|Packaging	|{{!!tr_packaging}} |~|
+|Country	|{{!!tr_country}} |~|
+|TR Review |{{!!tr_link}} |<|
+
+* Data pierwszego zakupu: {{!!data-pierwszego-zakupu}}
+* Data zakupu: {{!!data_zakupu}}
+* Data rozpoczęcia dojrzewania: {{!!data-dojrzewania-start}}
