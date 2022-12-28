@@ -1,12 +1,12 @@
 caption: <RATE>/<VOTES> - <TOBACCOTITLE> (<TOBACCOABBREVIATIONS>)
 created: <TIMESTAMP>
-creator: Romuald Tomasz Zdanowicz
+creator: Tobacco tiddler generator
 data-dojrzewania-start: -
 data-pierwszego-zakupu: <FIRSTPURCHASEDATE>
 data_zakupu: <FIRSTPURCHASEDATE>
 modified: <TIMESTAMP>
-modifier: Romuald Tomasz Zdanowicz
-tabacco_cover:
+modifier: Tobacco tiddler generator
+tabacco_cover: [img width=200 [tabaccoGeneric.jpg]]
 tags: tytoń [[na stanie]]
 title: <TOBACCOTITLE>
 tr_blend_type: <BLENDTYPE>
