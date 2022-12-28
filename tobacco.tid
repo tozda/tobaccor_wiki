@@ -1,25 +1,25 @@
-caption: 3.5/004 - W.O. Larsen - Craftmans Edition (A,BC,B,V)
-created: 20221031194223099
-creator: Romuald Tomasz Zdanowicz
+caption: 3.4/013 - HU Tobacco - Haymaker (United Passion) (V)
+created: 20221227160024319
+creator: Tobacco tiddler generator
 data-dojrzewania-start: -
-data-pierwszego-zakupu: 2022-10-31
-data_zakupu: 2022-10-31
-modified: 20221031194223099
-modifier: Romuald Tomasz Zdanowicz
+data-pierwszego-zakupu: 2022-12-27
+data_zakupu: 2022-12-27
+modified: 20221227160024319
+modifier: Tobacco tiddler generator
 tabacco_cover:
 tags: tytoń [[na stanie]]
-title: W.O. Larsen - Craftmans Edition
-tr_blend_type: Aromatic
-tr_blended_by: Orlik Tobacco Company A S
-tr_brand: W.O. Larsen
-tr_contents: Black Cavendish, Burley, Virginia
-tr_country: DK
-tr_cut: Ready Rubbed
-tr_flavoring: Caramel, Coffee, Vanilla
-tr_link: https://www.tobaccoreviews.com/blend/10436/wo-larsen-craftmans-edition
-tr_packaging: 100 grams tin
-tr_tabacco_rate: 3.5
-tr_votes: 004
+title: HU Tobacco - Haymaker (United Passion)
+tr_blend_type: Straight Virginia
+tr_blended_by: Hans Wiedemann
+tr_brand: HU Tobacco
+tr_contents: Virginia
+tr_country: DE
+tr_cut: Flake
+tr_flavoring: None
+tr_link: https://www.tobaccoreviews.com/blend/5748/hu-tobacco-haymaker
+tr_packaging: 50 grams tin
+tr_tabacco_rate: 3.4
+tr_votes: 013
 
 |Brand	|{{!!tr_brand}} |{{!!tabacco_cover}}|
 |TR Rating	|''{{!!tr_tabacco_rate}}/{{!!tr_votes}}'' |~|
