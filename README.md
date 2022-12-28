@@ -11,4 +11,7 @@ The process:
 7. Import tiddler
 
 # The file structure
-1. 
+1. 'main.py' - główny skrypt
+2. 'utensylia.py' - biblioteka funkcji pomocniczych
+3. 'tw_template.txt' - generyczny szablon tiddlera w oparciu o który tworzony jest plik wyjściowy
+4. 'tobacco.tid' - plik wyjściowy. Tiddler TiddlyWiki zawierający informacje o konkretnym tytoniu zaimportowane ze strony tobaccoreview.com
