@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup as bs
 import requests
 import utensylia
 
+# Maybe some more info would be fine
+# Date RC: 2022-12-28
+# Author: tozda
+
 
 def get_tobacco_title(tagh1):
 
@@ -25,7 +29,7 @@ t_params = []
 t_values = []
 
 # get the particular page
-msg = "Informacje o którym tytoniu mam ściągnąć z Tobacco Reviews?"
+msg = "Informacje o którym tytoniu mam ściągnąć z Tobacco Reviews? Podaj konkretny URL!"
 answer = input(msg)
 answer = re.sub('\n', '', answer)
 url = answer
@@ -73,7 +77,7 @@ tw_timestamp = utensylia.date2string(tw_timestamp, 23, 0)
 current_date = utensylia.get_timestamp()
 current_date = utensylia.date2string(current_date, 10, 1)
 
-# check if is flavouring
+# check if it is flavouring
 is_flavoring = ''
 if tobacco_data["Flavoring"] == "None":
     is_flavoring = ''
