@@ -7,7 +7,7 @@ The process:
 3. Provide copied URL as input to the script
 4. Wait till script completes
 5. Open your TiddlyWiki
-6. Clikc "import" icon and look for 'tobacco.tid' file located at the same directory as 'main.py' script
+6. Click "import" icon and look for 'tobacco.tid' file located at the same directory as 'main.py' script
 7. Import tiddler
 
 # The file structure

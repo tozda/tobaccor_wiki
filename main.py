@@ -29,6 +29,7 @@ t_params = []
 t_values = []
 
 # get the particular page
+print(utensylia.generate_welcome_message())
 msg = "Informacje o którym tytoniu mam ściągnąć z Tobacco Reviews? Podaj konkretny URL!"
 answer = input(msg)
 answer = re.sub('\n', '', answer)

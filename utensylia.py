@@ -56,3 +56,17 @@ def write_array_to_file(array, file):
 
 def map_template(template, values):
     pass
+
+
+def generate_welcome_message():
+    msg = "\n\t1. Open https://www.tobaccoreviews.com/ and search for the particular tobacco. Copy the URL.\n" \
+          "\t2. Run the 'main.py' script\n" \
+          "\t3. Paste copied URL as input to the script\n" \
+          "\t4. Wait till script completes\n" \
+          "\t5. Open your TiddlyWiki\n" \
+          "\t6. Click 'import' icon and look for 'tobacco.tid' file located at the same directory as 'main.py' script\n" \
+          "\t7. Import tiddler\n" \
+          "\n\tINFO: TiddlyWiki site: 'https://tiddlywiki.com/'\n"
+
+    return msg
+
